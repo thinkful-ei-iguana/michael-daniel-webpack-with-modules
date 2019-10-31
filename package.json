@@ -1,0 +1,26 @@
+{
+  "name": "michael-daniel-webpack-with-modules",
+  "version": "1.0.0",
+  "description": "Created for the Thinkful EI Program.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei-iguana/michael-daniel-webpack-with-modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkful-ei-iguana/michael-daniel-webpack-with-modules/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei-iguana/michael-daniel-webpack-with-modules#readme",
+  "dependencies": {
+    "cuid": "^2.1.6",
+    "jquery": "^3.4.1"
+  }
+}
