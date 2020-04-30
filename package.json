@@ -21,7 +21,7 @@
   "homepage": "https://github.com/thinkful-ei-iguana/michael-daniel-webpack-with-modules#readme",
   "dependencies": {
     "cuid": "^2.1.6",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "normalize": "^0.3.1"
   },
   "devDependencies": {
